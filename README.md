@@ -1,1 +1,1 @@
-https://fbloginpg.netlify.app/
+https://socialloginpg.netlify.app/
